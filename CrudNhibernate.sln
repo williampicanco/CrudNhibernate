@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{C0ACAE52-4B96-4D99-90FB-BA35534ABEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCRUD", "WinCRUD\WinCRUD.csproj", "{6D2F0D38-8148-4787-BD77-2E65199E531B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0ACAE52-4B96-4D99-90FB-BA35534ABEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ACAE52-4B96-4D99-90FB-BA35534ABEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ACAE52-4B96-4D99-90FB-BA35534ABEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ACAE52-4B96-4D99-90FB-BA35534ABEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2F0D38-8148-4787-BD77-2E65199E531B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2F0D38-8148-4787-BD77-2E65199E531B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2F0D38-8148-4787-BD77-2E65199E531B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2F0D38-8148-4787-BD77-2E65199E531B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
